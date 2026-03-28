@@ -1,7 +1,7 @@
 {
   "displayName": "Color-the-ducts",
   "name": "color-the-ducts",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "minGameVersion": 154,
   "java": true,
   "hidden": true,
